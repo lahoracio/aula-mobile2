@@ -1,6 +1,9 @@
 import java.time.LocalDate
 import java.time.Period
 import kotlin.math.pow
+//classe paciente
+//programador: Lara
+//data: 04/02/2025
 
 class Paciente {
 
